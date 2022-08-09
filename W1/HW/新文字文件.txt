@@ -1,0 +1,17 @@
+100/xtb.out:         :: total energy              -0.981983694723 Eh    ::
+110/xtb.out:         :: total energy              -0.982068602869 Eh    ::
+120/xtb.out:         :: total energy              -0.977904934200 Eh    ::
+130/xtb.out:         :: total energy              -0.970869236648 Eh    ::
+140/xtb.out:         :: total energy              -0.962100631377 Eh    ::
+150/xtb.out:         :: total energy              -0.952424640212 Eh    ::
+160/xtb.out:         :: total energy              -0.942372247400 Eh    ::
+170/xtb.out:         :: total energy              -0.932265158966 Eh    ::
+180/xtb.out:         :: total energy              -0.922293436718 Eh    ::
+190/xtb.out:         :: total energy              -0.912569766347 Eh    ::
+200/xtb.out:         :: total energy              -0.903162763107 Eh    ::
+250/xtb.out:         :: total energy              -0.861994122990 Eh    ::
+300/xtb.out:         :: total energy              -0.831534124152 Eh    ::
+400/xtb.out:         :: total energy              -0.799121501113 Eh    ::
+500/xtb.out:         :: total energy              -0.790364660065 Eh    ::
+ 80/xtb.out:         :: total energy              -0.956193103858 Eh    ::
+ 90/xtb.out:         :: total energy              -0.974961173319 Eh    ::
